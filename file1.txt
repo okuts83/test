@@ -1,4 +1,5 @@
-new test line UPDATE
+UPDATE
+
 line xxx
 test line
 commit test
